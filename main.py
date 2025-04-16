@@ -41,7 +41,6 @@ def HELP():
     print("\twallet balance     -> Visualizza i soldi nei wallet")
     print("\twallet address     -> Visualizza gli indirizzi dei wallet")
     print("\twallet wif         -> Ottieni il codice WIF del wallet")
-    print("\twallet export      -> Ricevi le chiavi per esportare un wallet")
     print("\tsend               -> Invia fondi ad un indirizzo esterno")
     print("\treceive            -> Ricevi l'indirizzo per ricevere i fondi")
     print("\twallet qrcode      -> Ottieni il qrcode di un wallet per ricevere fondi")
