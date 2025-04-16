@@ -1,4 +1,4 @@
-import colorama
+oimport colorama
 from colorama import Fore
 from bitcoinlib.wallets import Wallet, wallets_list, wallet_delete, WalletError, EncodingError
 from bitcoinlib.mnemonic import Mnemonic
@@ -22,7 +22,7 @@ def LOGO():
 ⠸⠿⣿⣿⣿⡿⠿⠿⣿⣿⣿⣶⣄⠀
 ⠀⠀⢸⣿⣿⡇⠀⠀⠀⠈⣿⣿⣿⠀
 ⠀⠀⢸⣿⣿⡇⠀⠀⢀⣠⣿⣿⠟⠀
-⠀⠀⢸⣿⣿⡿⠿⠿⠿⣿⣿⣥⣄⠀   autore: beatino029
+⠀⠀⢸⣿⣿⡿⠿⠿⠿⣿⣿⣥⣄⠀   autore: BeatoTechLab
 ⠀⠀⢸⣿⣿⡇⠀⠀⠀⠀⢻⣿⣿⣧   versione: beta 2.0
 ⠀⠀⢸⣿⣿⡇⠀⠀⠀⠀⣼⣿⣿⣿
 ⢰⣶⣿⣿⣿⣷⣶⣶⣾⣿⣿⠿⠛⠁
