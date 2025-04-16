@@ -1,0 +1,4 @@
+colorama
+bitcoinlib
+qrcode
+Pillow
