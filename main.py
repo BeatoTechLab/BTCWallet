@@ -1,4 +1,4 @@
-oimport colorama
+import colorama
 from colorama import Fore
 from bitcoinlib.wallets import Wallet, wallets_list, wallet_delete, WalletError, EncodingError
 from bitcoinlib.mnemonic import Mnemonic
